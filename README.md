@@ -4,18 +4,19 @@ I am planning to turn this repository into a place where I can document the stat
 
 ## Research Statement
 
-**Keywords:**
+--- *Work in Progress* ---
+
+How can we critically (the usage of critical in this case strongly aligns with the self-understanding of *Critical Neuroscience*) engage with scholarly communication and technology?
+
+**Current Hot Topics of Investigation:**
 
 - Scholarly Communication
+- Media and Communication Studies
 - Philosophy of Technology
 - Philosophy of Mind
 - Critical Theory
 
-My *current* focus is on:
-
-TBD
-
-## Schedule (at least currently...)
+## Roadmap (at least currently...)
 
 - [ ] Coursework
   - [ ] CMNS801 - Design and Methodology in Communication Research (in progress)
