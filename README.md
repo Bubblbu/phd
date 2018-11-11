@@ -11,21 +11,30 @@ How can we critically (the usage of critical in this case strongly aligns with t
 **Current Hot Topics of Investigation:**
 
 - Scholarly Communication
-- Media and Communication Studies
+    - Citation Theories
 - Philosophy of Technology
-- Philosophy of Mind
-- Critical Theory
+    - Critical theory of technology in scholarly communication
+- Wittgenstein
+    - Scholarly Communication and Language Games
 
-## Roadmap (at least currently...)
+## Roadmap
 
-- [ ] Coursework
-  - [ ] CMNS801 - Design and Methodology in Communication Research (in progress)
-  - [ ] IAT803  - Science, Technology & Culture (in progress)
-  - [ ] PUB877  - Directed Readings | Special Topics in Publishing
-  - [ ] PHIL861 - Directed Studies | Selected Topics (to be selected... *surprise*)
-  - [ ] CMNS815 - Social Construction of Communication Technology
-- [ ] Comprehensive Examination
-- [ ] Thesis a.k.a. The Fun Part
+### Coursework
+
+- [x] **Fall term 2017**
+    - [x] No courses
+- [x] **Spring term 2018**
+    - [x] CMNS801 - Design and Methodology in Communication Research (in progress)
+    - [x] IAT803  - Science, Technology & Culture (in progress)
+- [x] **Summer term 2018**
+    - [x] No courses
+- [ ] **Fall term 2018**
+    - [ ] PUB877 (INS867) - Making Knowledge Public
+    - [ ] CMNS897 - Philosophy of Technology
+- [ ] **Spring term 2019**
+    - [ ] CMNS815 - Social Construction of Communication Technology
+- [ ] **Summer term 2019**
+    - [ ] Comprehensive Examination
 
 ## Bibliography
 
