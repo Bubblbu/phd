@@ -17,7 +17,15 @@ How can we critically (the usage of critical in this case strongly aligns with t
 - Wittgenstein
     - Scholarly Communication and Language Games
 
+### Current Proposal
+
+See the initial version of the research proposal here: [proposal_v1.md](/documents/proposal/proposal_v1.md)
+
 ## Roadmap
+
+- [ ] [Coursework](#coursework)
+- [ ] [Comprehensive Examination](#comprehensive-examination)
+- [ ] [Thesis](#thesis)
 
 ### Coursework
 
@@ -35,6 +43,16 @@ How can we critically (the usage of critical in this case strongly aligns with t
     - [ ] CMNS815 - Social Construction of Communication Technology
 - [ ] **Summer term 2019**
     - [ ] Comprehensive Examination
+
+### Comprehensive Examination
+
+Format still needs to be determined.
+
+### Thesis
+
+- [ ] Research Proposal
+- [ ] Do the work
+- [ ] Write the thesis
 
 ## Bibliography
 
