@@ -112,13 +112,35 @@ This critique goes beyond the distinction of capitalism and socialism. This dich
 
 ### Double-Aspect Theory
 
-Social meaning and functional rationality are two sides of the same coin. There is no ontological distinction.
+Social meaning and functional rationality are two sides of the same coin. There is no ontological distinction as in the meaning residing in the creators and users while the function is a feature of the object.
 
 ### The Social Relativity of Efficiency
 
+Functional rationality often makes us think of technical change as an economic exchange which is introduced as the trade-off model. Social dilemmas such as environmentalism as then treated as economic exchanges (environmentally friendly vs prosperity, workers' satisfaction vs productivity, etc).
+
+> Design is not a zero-sum economic game but an ambivalent cultural process that serves a multiplicity of values and social groups without necessarily sacrificing efficiency. (p.313)
+
 ### The Technical Code
 
+The specificiations and technical requirements of an object are socially specified in the technical code. The design process and previous social/moral debates are then reduced into that code.
+
+> Design standards are only controversial while they are in flux. (p.314)
+
+Boiler design, child labor, and according to Andrew, eventually environmentalism also soon be embodied and fixated in a technical code that will determine a new horizon for future developments.
+
+> Non-economic values intersect the economy in the technical code (p.315)
+
+This is really interesting. What about technical codes in scholarship? There are definitely a lot of technical imperatives and standards in scholarship, which, so far, haven't been majorly associated with modern technology.
+
+> [...] regulation defines the cultural frae the cultural framework _of_ the economy; it is not an act _in_ the economy. (p.315)
+
 ### The Consequences of Technology
+
+Andrew is finally arguing that Heidegger's dystopian analysis of the essence of technology goes too far (or simply is wrong). Technology and any other means in general, are not _essentially_ destructive but are made so by design choices and social insertion.
+
+Recent developments and calls for equal and democratic technologies and policies are interpreted as the exact counterexamples of Heidegger's narrow definition of modern technology.
+
+
 
 ### The 'Essence' of Technology
 
