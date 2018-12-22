@@ -43,8 +43,8 @@ See the initial version of the research proposal here: [proposal_v1.md](/documen
 
 ### Comprehensive Examination
 
-**Date**: TBC
-**Format**: TBC
+- **Date**: TBC
+- **Format**: TBC
 
 ### Thesis
 
