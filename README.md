@@ -35,10 +35,9 @@ See the initial version of the research proposal here: [proposal_v1.md](/documen
     - [x] CMNS801 - Design and Methodology in Communication Research (in progress)
     - [x] IAT803  - Science, Technology & Culture (in progress)
 - [x] **Summer term 2018**
-    - [x] No courses
-- [ ] **Fall term 2018**
-    - [ ] PUB877 (INS867) - Making Knowledge Public
-    - [ ] CMNS897 - Philosophy of Technology
+    - - [x] PUB877 (INS867) - Making Knowledge Public
+- [x] **Fall term 2018**
+    - [x] CMNS897 - Philosophy of Technology
 - [ ] **Spring term 2019**
     - [ ] CMNS815 - Social Construction of Communication Technology
 - [ ] **Summer term 2019**
