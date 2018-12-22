@@ -40,12 +40,11 @@ See the initial version of the research proposal here: [proposal_v1.md](/documen
     - [x] CMNS897 - Philosophy of Technology
 - [ ] **Spring term 2019**
     - [ ] CMNS815 - Social Construction of Communication Technology
-- [ ] **Summer term 2019**
-    - [ ] Comprehensive Examination
 
 ### Comprehensive Examination
 
-Format still needs to be determined.
+**Date**: TBC
+**Format**: TBC
 
 ### Thesis
 
