@@ -1,4 +1,4 @@
-# My PhD
+# My PhD <a href="https://github.com/Bubblbu/phd"><img src="https://media.giphy.com/media/ZWhA850E7azfO/giphy.gif" align="right" /></a>
 
 I am planning to turn this repository into a place where I can document the status-quo of my PhD, collect any kind of information that helps, organise thoughts regarding the big picture, and most importantly track the changes over time.
 
