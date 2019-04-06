@@ -1,4 +1,4 @@
-# My PhD
+# My PhD <a href="https://github.com/Bubblbu/phd"><img src="https://media.giphy.com/media/ZWhA850E7azfO/giphy.gif" align="right" /></a>
 
 I am planning to turn this repository into a place where I can document the status-quo of my PhD, collect any kind of information that helps, organise thoughts regarding the big picture, and most importantly track the changes over time.
 
@@ -12,7 +12,7 @@ See the initial version of the research proposal here: [proposal_v1.md](/documen
 
 ## Roadmap
 
-- [My PhD](#my-phd)
+- [My PhD <a href="https://github.com/Bubblbu/phd"><img src="https://media.giphy.com/media/ZWhA850E7azfO/giphy.gif" align="right" /></a>](#my-phd-a-href%22httpsgithubcombubblbuphd%22img-src%22httpsmediagiphycommediazwha850e7azfogiphygif%22-align%22right%22-a)
   - [Research Statement](#research-statement)
     - [Current Proposal](#current-proposal)
   - [Roadmap](#roadmap)
@@ -35,12 +35,13 @@ See the initial version of the research proposal here: [proposal_v1.md](/documen
     - [x] CMNS897 - Philosophy of Technology
 - [ ] **Spring term 2019**
     - [ ] CMNS815 - Social Construction of Communication Technology
-- [ ] **Summer/Fall term 2019**
+- [ ] **Late 2019**
     - [ ] Comprehensive Examination
 
 ### Comprehensive Examination
 
-Format still needs to be determined.
+- **Date**: TBC
+- **Format**: TBC
 
 ### Thesis
 
