@@ -4,18 +4,7 @@ I am planning to turn this repository into a place where I can document the stat
 
 ## Research Statement
 
---- *Work in Progress* ---
-
-How can we critically (the usage of critical in this case strongly aligns with the self-understanding of *Critical Neuroscience*) engage with scholarly communication and technology?
-
-**Current Hot Topics of Investigation:**
-
-- Scholarly Communication
-    - Citation Theories
-- Philosophy of Technology
-    - Critical theory of technology in scholarly communication
-- Wittgenstein
-    - Scholarly Communication and Language Games
+What is the role and impact of open infrastructure in scholarly communication? How do research metrics, citation indices, or open access initiatives influence the way scholars access, publish, and disseminate research? Can we shape and change the practices and culture of scholarly communication by creating more equitable and inclusive technical infrastructures? In this doctoral research project, Asura Enkhbayar is critically exploring the infrastructure of scholarly communication in the 21st century at the intersection of philosophy and technology. Building on a background in electronics, cognitive science, and the philosophy of mind, he is tackling this mediatized and data-intense domain both qualitatively and quantitatively.
 
 ### Current Proposal
 
@@ -23,9 +12,14 @@ See the initial version of the research proposal here: [proposal_v1.md](/documen
 
 ## Roadmap
 
-- [ ] [Coursework](#coursework)
-- [ ] [Comprehensive Examination](#comprehensive-examination)
-- [ ] [Thesis](#thesis)
+- [My PhD](#my-phd)
+  - [Research Statement](#research-statement)
+    - [Current Proposal](#current-proposal)
+  - [Roadmap](#roadmap)
+    - [Coursework](#coursework)
+    - [Comprehensive Examination](#comprehensive-examination)
+    - [Thesis](#thesis)
+  - [Bibliography](#bibliography)
 
 ### Coursework
 
@@ -36,12 +30,12 @@ See the initial version of the research proposal here: [proposal_v1.md](/documen
     - [x] IAT803  - Science, Technology & Culture (in progress)
 - [x] **Summer term 2018**
     - [x] No courses
-- [ ] **Fall term 2018**
-    - [ ] PUB877 (INS867) - Making Knowledge Public
-    - [ ] CMNS897 - Philosophy of Technology
+- [x] **Fall term 2018**
+    - [x] PUB877 (INS867) - Making Knowledge Public
+    - [x] CMNS897 - Philosophy of Technology
 - [ ] **Spring term 2019**
     - [ ] CMNS815 - Social Construction of Communication Technology
-- [ ] **Summer term 2019**
+- [ ] **Summer/Fall term 2019**
     - [ ] Comprehensive Examination
 
 ### Comprehensive Examination
