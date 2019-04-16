@@ -12,7 +12,7 @@ See the initial version of the research proposal here: [proposal_v1.md](/documen
 
 ## Roadmap
 
-- [My PhD <a href="https://github.com/Bubblbu/phd"><img src="https://media.giphy.com/media/ZWhA850E7azfO/giphy.gif" align="right" /></a>](#my-phd-a-href%22httpsgithubcombubblbuphd%22img-src%22httpsmediagiphycommediazwha850e7azfogiphygif%22-align%22right%22-a)
+- [My PhD](#my-phd)
   - [Research Statement](#research-statement)
     - [Current Proposal](#current-proposal)
   - [Roadmap](#roadmap)
